@@ -1,0 +1,21 @@
+.nav-menu {
+  gap: 1em;
+
+  a {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    color: var(--color-aquarius-900);
+  }
+}
+
+.slide {
+  background-color: var(--color-aquarius-900);
+}
+
+.slide-info {
+
+  h1 {
+    color: var(--color-aquarius-300);
+  }
+}

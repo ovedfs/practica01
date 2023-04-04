@@ -1,0 +1,23 @@
+.btn {
+  padding: 1em;
+  border: none;
+  color: var(--color-white);
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.btn-primary {
+  background-color: var(--color-aquarius-600);
+
+  &:hover {
+    background-color: var(--color-aquarius-700);
+  }
+}
+
+.btn-secondary {
+  background-color: var(--color-black-pearl-900);
+
+  &:hover {
+    background-color: var(--color-black-pearl-800);
+  }
+}
